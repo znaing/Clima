@@ -1,4 +1,5 @@
 Weather App built with UIKit and Open Weather Maps API 
+
 Steps to Run the App
 1. Clone the repository
 2. Get a free API Key from Open Weather Maps at openweathermaps.org.
